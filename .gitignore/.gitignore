@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en-US" dir="ltr" id="back-to-top">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>20 Minute Lunch Break HIIT</title>
+  <link rel="canonical" href="https://cooking.nytimes.com/recipes/1014647-sweet-potato-fries">
+  <meta name="description" content="A calorie burner during your lunch break.">
+  <meta name="author" content="Cheyenne Berbey">
+  <script src="js/html5shiv-printshiv.min.js"></script>
+</head>
+<body style="background-color:yellowgreen;color:white;">
+<body>
+
+<!--
+Notes:
+Bylines
+https://www.w3.org/MarkUp/HTMLPlus/htmlplus_28.html
+Definition Lists versus Tables
+https://snook.ca/archives/html_and_css/definition-lists-v-tables
+-->
+
+<main id="main">
+
+<header>
+
+  <h1>20 Minute HIIT Workout</h1>
+
+  <dl class="list" id="Calories Burned">
+    <dt><b>Calories Burned</b></dt>
+    <dd>250 kcal burned per 20 minutes</dd>
+    <dt><b>#GrindTime</b></dt>
+    <dt><b>#Fitspo</b></dt>
+    <dt><b>#HealthandWellness</b></dt>
+    <dt><b>#HIIT</b></dt>
+    <dt><b>#FitnessBlogger</b></dt>
+
+  </dl>
+    <img src="cheyennedead2.jpg" height="300" width="300">
+
+  <div id="summary">
+  <p>This is me deadlifting, this has nothing to do witht the actual circuit. LOL.</p>
+  </div>
+
+</header>
+
+<section class="list" id="Circuit 1">
+  <h2>Circuit 1</h2>
+  <ul>
+    <li>High Knees <em>1 minute</em></li>
+    <li>Push Ups <em>1 minute</em></li>
+    <li>Lying Opposite Toe Touch <em>30 seconds</em></li>
+    <li>Burpees <em>1 minute</em></li>
+    <li>Standard Plank <em>1 minute</em></li>
+    <p>NO STOPPING UNTILL DONE, THEN 1 MINUTE REST, THEN REPEAT!</p>
+  </ul>
+</section>
+
+<section class="list" id="Circuit 2">
+  <h2>Circuit 2</h2>
+  <ol>
+    <li>Squat Jumps <em>1 minute</em></li>
+    <li>Mountain Climbers <em>1 minute</em></li>
+    <li>Bicycles <em>30 seconds</em></li>
+    <li>Up Down Planks <em>1 minute</em></li>
+    <li>Ball Slams <em>1 minute</em></li>
+      <p>NO STOPPING UNTILL DONE, THEN 1 MINUTE REST, THEN REPEAT!</p>
+</section>
+
+</main>
+
+<div class="back-to-top">
+  <a href="#back-to-top">Back to top ⇡</a>
+</div>
+
+<footer id="contentinfo">
+  <p class="small-print">
+    <small>Made in Massachusetts with ♥ and <a href="https://www.barebones.com/products/bbedit/">BBEdit</a>. See <a href="https://github.com/jgagne/">GitHub</a></small>
+  </p>
+</footer>
+
+</body>
+</html>
